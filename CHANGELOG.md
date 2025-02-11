@@ -5,3 +5,6 @@
 
 2/3/25
 - Added Homework2 to repository
+
+2/10/25
+- Added Homework3 to repository
