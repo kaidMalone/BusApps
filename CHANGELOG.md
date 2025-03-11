@@ -14,3 +14,6 @@
 
 2/24/25
 - Added Homework 5 to repository
+
+3/10/25
+- Added Homework 6 to repository
