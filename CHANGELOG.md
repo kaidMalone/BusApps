@@ -19,4 +19,7 @@
 - Added Homework6 to repository
 
 3/24/25
-- Added Homework7
+- Added Homework7 to repository
+
+3/31/25
+- Added Homework8 to repository
